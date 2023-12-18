@@ -9,3 +9,5 @@ Create file compute-instance.json
 gcloud iam service-accounts keys create ./keys/compute-instance.json --iam-account <SERVICE_ACCOUNT_EMAIL>
 
 create keygen
+
+terraform init , terraform plan , terraform apply , terraform destroy
